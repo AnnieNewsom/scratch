@@ -7,7 +7,7 @@ body {
     background-attachment: fixed;
     height:100%;
     width:100%;
-    background-color: rgb(156, 202, 225);
+    background-color: rgb(93, 164, 200);
 }
 
 section{
@@ -64,4 +64,17 @@ a {color: rgb(0, 0, 0);
   height: 315;
   width: 560;
   z-index: 2;
+}
+
+.image-1 {
+  background-image: url('images/Blue-Mountains-and-pink-sky 2 2.jpg')
+}
+.image-2 {
+background-image: url('images/MistyBlue 2 2.jpeg');
+}
+.image-3 {
+background-image: url('images/CoralTrees 2 2.jpg');
+}
+.image-4 {
+background-image: url('images/PurpleMountains 2 2.jpeg');
 }
