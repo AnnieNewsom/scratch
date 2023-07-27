@@ -19,19 +19,6 @@ section{
    background-attachment: fixed;
 }
 
-.image-1 {
-  background-image: url('images/Blue-Mountains-and-pink-sky 2 2.jpg')
-}
-.image-2 {
-background-image: url('images/MistyBlue 2 2.jpeg');
-}
-.image-3 {
-background-image: url('images/CoralTrees 2 2.jpg');
-}
-.image-4 {
-background-image: url('images/PurpleMountains 2 2.jpeg');
-}
-
 .teal {color: rgb(0, 0, 0);
 text-align: left;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
