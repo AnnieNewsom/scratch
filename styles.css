@@ -20,16 +20,16 @@ section{
 }
 
 .image-1 {
-    background-image: url('images/Blue-Mountains-and-pink-sky.jpg')
+    background-image: url('images/Blue-Mountains-and-pink-sky\ 2.jpg')
 }
 .image-2 {
-  background-image: url('images/MistyBlue.jpeg');
+  background-image: url('images/MistyBlue\ 2.jpeg');
 }
 .image-3 {
-  background-image: url('images/CoralTrees.jpg');
+  background-image: url('images/CoralTrees\ 2.jpg');
 }
 .image-4 {
-  background-image: url('images/PurpleMountains.jpeg');
+  background-image: url('images/PurpleMountains\ 2.jpeg');
 }
 
 .teal {color: rgb(0, 0, 0);
@@ -71,4 +71,9 @@ a {color: rgb(0, 0, 0);
     width: 180px;
     height: 180px;
     margin: 0px 10px 30px 20px;
+  }
+
+  .container{
+    width: 400px;
+    height: 225px;
   }
